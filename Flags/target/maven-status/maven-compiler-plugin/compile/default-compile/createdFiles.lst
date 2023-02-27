@@ -1,0 +1,4 @@
+com\mycompany\flags\PrimaryController.class
+module-info.class
+com\mycompany\flags\App.class
+com\mycompany\flags\SecondaryController.class
